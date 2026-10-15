@@ -1,0 +1,17 @@
+{
+  "name": "人生クエスト",
+  "short_name": "人生クエスト",
+  "description": "分身を育てながら、目標・日記・振り返りで人生を進めるアプリ",
+  "lang": "ja",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#17435F",
+  "theme_color": "#17435F",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
